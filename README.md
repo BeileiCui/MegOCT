@@ -18,4 +18,4 @@ Down the checkpoint of correction net from [Checkpoints](https://drive.google.co
 We have prepared some demonstration data and you can down them from. Then just place the data in this folder.
 
 ## Start
-Just run ```python oct_restore.py``` to start inferences.
+Just run ```python oct_restore.py``` to start inferences. By default, the outputs are saved in ```./outputs```.
